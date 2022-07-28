@@ -12,8 +12,8 @@ export const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
 export const FACTORY_ADDRESS = '0xE36012d8AA5E46EA47B7F2c755E6202d81F937e3';
 export const ROUTER_ADDRESS = '0xC87819FCD267aafcff05b5D069C023e5A7003291';
 
-export const LP_TOKEN_NAME = 'Swap-LP-Token';
-export const LP_TOKEN_SYMBOL = 'SWAP-LP';
+export const LP_TOKEN_NAME = 'Uniswap V2';
+export const LP_TOKEN_SYMBOL = 'UNI-V2';
 
 // a list of tokens by chain
 type ChainTokenList = {
